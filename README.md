@@ -1,7 +1,7 @@
 # 306_pull_request
 
 # Contexte
-Ce readme contiens de nombreuses erreurs ("typos"). 
+Ce readme contient de nombreuses erreurs ("typos"). 
 
 # A faire :
 
@@ -15,4 +15,4 @@ Ce readme contiens de nombreuses erreurs ("typos").
 
 # Texte bidon
 
-La journée commencent. Il s’habille comme il peux tout en prenant son café. Chemise blanches repassée la veille par lui-même. Une cravate comme tous les jours. Et son costume noir de chez Sam Montiel, très chic et très branché. Chaussures cuir noir. Comme il aime faire remarquer : "Vous êtes soit dans vos chaussures, soit dans votre lit. Alors il faut de bonnes chaussures et une bonne literie !". La météo a annoncé un ciel bleu et des températures au-dessus de la normale saisonnière. C’est un très beau mois de mai qui s’annonce.
+La journée commence. Il s’habille comme il peut tout en prenant son café. Chemise blanches repassée la veille par lui-même. Une cravate comme tous les jours. Et son costume noir de chez Sam Montiel, très chic et très branché. Chaussures cuir noir. Comme il aime faire remarquer : "Vous êtes soit dans vos chaussures, soit dans votre lit. Alors il faut de bonnes chaussures et une bonne literie !". La météo a annoncé un ciel bleu et des températures au-dessus de la normale saisonnière. C’est un très beau mois de mai qui s’annonce.
