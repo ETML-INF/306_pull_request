@@ -1,7 +1,7 @@
 # 306_pull_request
 
 # Contexte
-Ce readme contient de nombreuses erreurs ("typos"). 
+Ce readme.md contient de nombreuses erreurs ("typos"). 
 
 # A faire :
 
